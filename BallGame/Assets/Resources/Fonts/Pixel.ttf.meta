@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4710c400584bbc2449e97e4460bcea6d
+timeCreated: 1611251500
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: progresspixel-bold
+  fontNames:
+  - progresspixel-bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
